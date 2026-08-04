@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "可穿戴设备赛车游戏模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Endless Ride"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Endless Ride"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "modelVersion": "6.0.2",
+  "name": "endless_ride",
+  "version": "1.0.0",
+  "description": "a wearable car game sample",
+  "dependencies": {}
+}
